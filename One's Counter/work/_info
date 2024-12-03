@@ -1,0 +1,295 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+voc15in
+!s110 1699727884
+!i10b 1
+!s100 aDJkhFJOP7EO5Ykd:b>W;3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`W1ejSkKm2:BGV6<KjWhL2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/UT/Digital Systems
+w1699727879
+8D:/UT/Digital Systems/OC15in.v
+FD:/UT/Digital Systems/OC15in.v
+!i122 259
+L0 2 8
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1699727884.000000
+!s107 D:/UT/Digital Systems/OC15in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC15in.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vOC3in
+!s110 1699616717
+!i10b 1
+!s100 E=X6[nhO4VXSg49TPS?560
+R0
+I7hzDCVc7haUj:af[3N<401
+R1
+R2
+w1699616712
+Z6 8D:/UT/Digital Systems/OC 3-in-gate.v
+Z7 FD:/UT/Digital Systems/OC 3-in-gate.v
+!i122 111
+Z8 L0 2 19
+R3
+r1
+!s85 0
+31
+!s108 1699616717.000000
+Z9 !s107 D:/UT/Digital Systems/OC 3-in-gate.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC 3-in-gate.v|
+!i113 1
+R4
+R5
+n@o@c3in
+vOC3ingate
+Z11 !s110 1699727882
+!i10b 1
+!s100 2H1iazKCBjGS4U5lj[Sen1
+R0
+InA8oBJ9@YjPVb[WmQSzBd2
+R1
+R2
+w1699726136
+R6
+R7
+!i122 249
+R8
+R3
+r1
+!s85 0
+31
+Z12 !s108 1699727882.000000
+R9
+R10
+!i113 1
+R4
+R5
+n@o@c3ingate
+voc3inswitch
+Z13 !s110 1699727883
+!i10b 1
+!s100 WRo;3z1_^ZObWb_T?24Hi0
+R0
+IoKndEX?O:9_0L:a7Q=M5`1
+R1
+R2
+w1699611947
+8D:/UT/Digital Systems/OC-3In-switch.v
+FD:/UT/Digital Systems/OC-3In-switch.v
+!i122 251
+L0 2 40
+R3
+r1
+!s85 0
+31
+Z14 !s108 1699727883.000000
+!s107 D:/UT/Digital Systems/OC-3In-switch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC-3In-switch.v|
+!i113 1
+R4
+R5
+voc7in
+R13
+!i10b 1
+!s100 SX:cA_4_Oh6Td]@8Od2Ck2
+R0
+IMBg4>hT;=oi:H8nRmmMMA2
+R1
+R2
+w1699724610
+8D:/UT/Digital Systems/OC7in.v
+FD:/UT/Digital Systems/OC7in.v
+!i122 256
+Z15 L0 2 7
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/OC7in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC7in.v|
+!i113 1
+R4
+R5
+voc7inassign
+R13
+!i10b 1
+!s100 O=E85zN=XGIWQmXXocE>X3
+R0
+ISCUVzf`0>8;gDL93ME?om1
+R1
+R2
+w1699725838
+8D:/UT/Digital Systems/Oc7inassign.v
+FD:/UT/Digital Systems/Oc7inassign.v
+!i122 258
+R15
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/Oc7inassign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/Oc7inassign.v|
+!i113 1
+R4
+R5
+voc7inTB
+R13
+!i10b 1
+!s100 E^52_aUB4[zhj<eIzZ_0H2
+R0
+I^Z^i95f[Z]iIF7D=NcdNJ3
+R1
+R2
+w1699725593
+8D:/UT/Digital Systems/OC7in-TB.v
+FD:/UT/Digital Systems/OC7in-TB.v
+!i122 257
+L0 2 12
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/OC7in-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC7in-TB.v|
+!i113 1
+R4
+R5
+noc7in@t@b
+vocassign
+!s110 1699984001
+!i10b 1
+!s100 Jf6;P4JML42F?nTmGT3bA3
+R0
+IT28>0ReV8ghTLMW9zM5>61
+R1
+R2
+w1699983998
+8D:/UT/Digital Systems/OC-3in_assign.v
+FD:/UT/Digital Systems/OC-3in_assign.v
+!i122 262
+L0 2 4
+R3
+r1
+!s85 0
+31
+!s108 1699984001.000000
+!s107 D:/UT/Digital Systems/OC-3in_assign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC-3in_assign.v|
+!i113 1
+R4
+R5
+vocassignTB
+R13
+!i10b 1
+!s100 UjI??3b2PTKKIaG<<cSUK2
+R0
+I5zR::h>YzkQE4O4TRj8QK1
+R1
+R2
+w1699622803
+8D:/UT/Digital Systems/OC-3in-assign-TB.v
+FD:/UT/Digital Systems/OC-3in-assign-TB.v
+!i122 255
+Z16 L0 2 17
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/OC-3in-assign-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC-3in-assign-TB.v|
+!i113 1
+R4
+R5
+nocassign@t@b
+vocgateTB
+R11
+!i10b 1
+!s100 4YcfzSJAb9CYdPUzTPF112
+R0
+I:b2L]PTKh:lcCWa@F;UEh0
+R1
+R2
+w1699617343
+8D:/UT/Digital Systems/OC-3In-gate-TB.v
+FD:/UT/Digital Systems/OC-3In-gate-TB.v
+!i122 250
+R16
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/UT/Digital Systems/OC-3In-gate-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC-3In-gate-TB.v|
+!i113 1
+R4
+R5
+nocgate@t@b
+vocswitchgateTB
+R13
+!i10b 1
+!s100 SQDMHgXaIM[?Bnm[Y?EWi3
+R0
+IinTbTWEoV^8KGoVz_mAjT1
+R1
+R2
+w1699618685
+8D:/UT/Digital Systems/OC-3inSGTB.v
+FD:/UT/Digital Systems/OC-3inSGTB.v
+!i122 253
+L0 2 18
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/OC-3inSGTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC-3inSGTB.v|
+!i113 1
+R4
+R5
+nocswitchgate@t@b
+vocswitchTB
+R13
+!i10b 1
+!s100 Rn2oPjkJ4GDaVdoHF]jh?2
+R0
+IdT0_CN;:AaCkBEZ3Q@U423
+R1
+R2
+w1699548389
+8D:/UT/Digital Systems/OC 3-in-switch-TB.v
+FD:/UT/Digital Systems/OC 3-in-switch-TB.v
+!i122 252
+R16
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/UT/Digital Systems/OC 3-in-switch-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/OC 3-in-switch-TB.v|
+!i113 1
+R4
+R5
+nocswitch@t@b

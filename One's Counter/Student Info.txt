@@ -1,0 +1,11 @@
+Amir Abbas Moumeni Zadeh
+SID:810101529
+Computer Assignment 1,2 - Digital System 1.
+Files Related To Problems:
+1: Hand-Written
+2: OC-3In-switch.v  &  OC 3-in-switch-TB.v
+3: OC 3-in-gate.v  &  OC-3In-gate-TB.v  &  OC-3inSGTB.v
+4:OC-3in_assign.v  &  OC-3in-assign-TB.v
+5:OC7in.v  &  OC7in-TB.v
+6:Oc7inassign.v  &   OC7in-TB.v
+7:OC15in.v

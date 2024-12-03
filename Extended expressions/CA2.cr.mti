@@ -1,0 +1,48 @@
+{D:/UT/Digital Systems/Semester 4/CA2/synth.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/Semester 4/CA2/synth.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module simple
+
+Top level modules:
+	simple
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA2/simple.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/Semester 4/CA2/simple.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module simple
+
+Top level modules:
+	simple
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA2/CA2.sv} {1 {vlog -work work -sv -stats=none {D:\UT\Digital Systems\Semester 4\CA2\CA2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module adderX
+-- Compiling module asadder
+-- Compiling module adderTest
+-- Compiling module twoOneMUX
+-- Compiling module MUXadder
+-- Compiling module MUXasadder
+-- Compiling module MUXadderTest
+-- Compiling module Tester
+-- Compiling module ADDER_QSIX
+-- Compiling module SynthTester
+
+Top level modules:
+	adderX
+	adderTest
+	MUXadderTest
+	Tester
+	ADDER_QSIX
+	SynthTester
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA2/mycells.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/Semester 4/CA2/mycells.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT
+-- Compiling module twoinputNOR
+-- Compiling module threeinputNOR
+
+Top level modules:
+	NOT
+	twoinputNOR
+	threeinputNOR
+
+} {} {}}

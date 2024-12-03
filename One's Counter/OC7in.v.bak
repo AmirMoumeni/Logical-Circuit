@@ -1,0 +1,11 @@
+`timescale 1ns/1ns
+module oc7in (input a,b,c,d,e,f,g, output y0,y1,y2);
+wire aa,bb,cc,dd,ee;
+oc3inswitch oc7in(output aa,bb, input a,b,c);
+oc3inswitch oc7in(output cc,dd,input d,e,f);
+oc3inswitch oc7in(output y0,ee, input g,aa,cc);
+oc3inswitch oc7in(output y1,y2, input bb,dd,ee);
+endmodule
+
+
+

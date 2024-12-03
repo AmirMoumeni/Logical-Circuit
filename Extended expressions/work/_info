@@ -1,0 +1,439 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UT/Digital Systems/Semester 4/CA1
+vadder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1712943763
+!i10b 1
+!s100 QBkO<B1440[>jH2YB[W]c2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIMEnJ1f2Ah7iaoGcFBgS11
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/UT/Digital Systems/Semester 4/CA2
+Z5 w1712943756
+Z6 8D:\UT\Digital Systems\Semester 4\CA2\CA2.sv
+Z7 FD:\UT\Digital Systems\Semester 4\CA2\CA2.sv
+!i122 58
+L0 2 22
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1712943763.000000
+!s107 D:\UT\Digital Systems\Semester 4\CA2\CA2.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\UT\Digital Systems\Semester 4\CA2\CA2.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+vADDER_QSIX
+R0
+R1
+!i10b 1
+!s100 Db>3j3b?>T?5i7X26CfL<1
+R2
+ICHlzYSW9TcBM=R:DR6Nf83
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 122 4
+R8
+r1
+!s85 0
+31
+R9
+Z13 !s107 D:\UT\Digital Systems\Semester 4\CA2\CA2.sv|
+R10
+!i113 1
+R11
+R12
+n@a@d@d@e@r_@q@s@i@x
+vadderTest
+R0
+R1
+!i10b 1
+!s100 __@Ah7oSZS2;H4:zBg2l63
+R2
+IA[WAHXmIXhlcWbKmfbbSa2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 45 14
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+nadder@test
+vadderX
+R0
+R1
+!i10b 1
+!s100 J^MYJ4;No?cM5F>PVhBHd3
+R2
+IZfb>jVTZ;W>DQDIP9KNbI0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 25 14
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+nadder@x
+vadderXX
+R0
+!s110 1712876756
+!i10b 1
+!s100 2l2_VlA21YW8YX;dhIaZ`3
+R2
+I0P>ldZko;>LW2PcOAS@^Q0
+R3
+S1
+R4
+w1712876752
+8D:/UT/Digital Systems/Semester 4/CA2/Q1.sv
+FD:/UT/Digital Systems/Semester 4/CA2/Q1.sv
+!i122 21
+L0 47 18
+R8
+r1
+!s85 0
+31
+!s108 1712876756.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA2/Q1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA2/Q1.sv|
+!i113 1
+R11
+R12
+nadder@x@x
+vasadder
+R0
+R1
+!i10b 1
+!s100 nzcoYamCE_?GZ9_g`GnQ40
+R2
+ITXD[`g;d;TZBe5VJG<^TI3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 40 4
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+vMUXadder
+R0
+R1
+!i10b 1
+!s100 EPfmk2NmfMzZ`@0NoT0n]1
+R2
+I4V;ocGN^`6^iMmdkPZJ`z3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 71 15
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@m@u@xadder
+vMUXadderTest
+R0
+R1
+!i10b 1
+!s100 VOeUm:AZCnZV2A=[bN9;L2
+R2
+I=^Rm:Cl_O<M;`?hC4nk@U2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 92 14
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@m@u@xadder@test
+vMUXasadder
+R0
+R1
+!i10b 1
+!s100 Oihh[n301ViTZ6:WVh1aT2
+R2
+IfTiX`f9_miUnJo4jl>LmM3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 87 4
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@m@u@xasadder
+vmytb
+Z14 !s110 1712943111
+!i10b 1
+!s100 Hma4VjFD7R54WS@^iXhWX1
+R2
+IkV<5mUOE1nJ@8Ni<<f]<70
+R3
+R4
+w1712943013
+8D:/UT/Digital Systems/Semester 4/CA2/mytb.v
+FD:/UT/Digital Systems/Semester 4/CA2/mytb.v
+!i122 52
+L0 3 25
+R8
+r1
+!s85 0
+31
+Z15 !s108 1712943111.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA2/mytb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/Semester 4/CA2/mytb.v|
+!i113 1
+Z16 o-work work
+R12
+vNOT
+R14
+!i10b 1
+!s100 k0>ZM2]6W@8PO4e2KCLDg2
+R2
+IN[^NaBH5izB9RWU^azWnX1
+R3
+R4
+Z17 w1712942961
+Z18 8D:/UT/Digital Systems/Semester 4/CA2/mycells.v
+Z19 FD:/UT/Digital Systems/Semester 4/CA2/mycells.v
+!i122 51
+L0 2 5
+R8
+r1
+!s85 0
+31
+R15
+Z20 !s107 D:/UT/Digital Systems/Semester 4/CA2/mycells.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/Semester 4/CA2/mycells.v|
+!i113 1
+R16
+R12
+n@n@o@t
+vsimple
+R14
+!i10b 1
+!s100 MzYMJR18oW6h_6<g]N>g_0
+R2
+IGf3ooDOZ@]?@IakgL6kDK2
+R3
+R4
+w1712942894
+8D:/UT/Digital Systems/Semester 4/CA2/synth.v
+FD:/UT/Digital Systems/Semester 4/CA2/synth.v
+!i122 54
+L0 5 132
+R8
+r1
+!s85 0
+31
+R15
+!s107 D:/UT/Digital Systems/Semester 4/CA2/synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Digital Systems/Semester 4/CA2/synth.v|
+!i113 1
+R16
+R12
+vSynthTester
+R0
+R1
+!i10b 1
+!s100 Wi4?GZ3UNUD97S=:G>L5H3
+R2
+I:bU3Zlo<E9k2GC_IY33=W1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 127 15
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@synth@tester
+vTester
+R0
+R1
+!i10b 1
+!s100 g2;3J_lWMXJnZh:?`@jSR3
+R2
+IX@kV`1B0Q8>AzD@BK`b6c1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 107 14
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@tester
+vthreeinputNOR
+R14
+!i10b 1
+!s100 o_Z7`T_mBWV?1RPZ4XdYA3
+R2
+IdZ=a[hW3:5cel:Xm2P2RH0
+R3
+R4
+R17
+R18
+R19
+!i122 51
+L0 16 5
+R8
+r1
+!s85 0
+31
+R15
+R20
+R21
+!i113 1
+R16
+R12
+nthreeinput@n@o@r
+vtwoinputNOR
+R14
+!i10b 1
+!s100 TjMAcHFUBHKzEZ;AB:j;T0
+R2
+IRAJM9>X1BldTz5G0gL1FU1
+R3
+R4
+R17
+R18
+R19
+!i122 51
+L0 9 5
+R8
+r1
+!s85 0
+31
+R15
+R20
+R21
+!i113 1
+R16
+R12
+ntwoinput@n@o@r
+vtwoOneMUX
+R0
+R1
+!i10b 1
+!s100 =g77eZG`6_@24Seio<fe@0
+R2
+IcdIHRSih52[D^YV0O1QW>0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 58
+L0 60 10
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+ntwo@one@m@u@x

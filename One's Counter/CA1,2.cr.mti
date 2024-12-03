@@ -1,0 +1,78 @@
+{D:/UT/Digital Systems/OC-3In-gate-TB.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC-3In-gate-TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ocgateTB
+
+Top level modules:
+	ocgateTB
+
+} {} {}} {D:/UT/Digital Systems/OC-3in-assign-TB.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC-3in-assign-TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ocassignTB
+
+Top level modules:
+	ocassignTB
+
+} {} {}} {D:/UT/Digital Systems/OC 3-in-switch-TB.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC 3-in-switch-TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ocswitchTB
+
+Top level modules:
+	ocswitchTB
+
+} {} {}} {D:/UT/Digital Systems/OC7in-TB.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC7in-TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module oc7inTB
+
+Top level modules:
+	oc7inTB
+
+} {} {}} {D:/UT/Digital Systems/OC 3-in-gate.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC 3-in-gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OC3ingate
+
+Top level modules:
+	OC3ingate
+
+} {} {}} {D:/UT/Digital Systems/OC15in.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC15in.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module oc15in
+
+Top level modules:
+	oc15in
+
+} {} {}} {D:/UT/Digital Systems/OC-3In-switch.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC-3In-switch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module oc3inswitch
+
+Top level modules:
+	oc3inswitch
+
+} {} {}} {D:/UT/Digital Systems/OC7in.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC7in.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module oc7in
+
+Top level modules:
+	oc7in
+
+} {} {}} {D:/UT/Digital Systems/OC-3in_assign.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC-3in_assign.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ocassign
+
+Top level modules:
+	ocassign
+
+} {} {}} {D:/UT/Digital Systems/OC-3inSGTB.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/OC-3inSGTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ocswitchgateTB
+
+Top level modules:
+	ocswitchgateTB
+
+} {} {}} {D:/UT/Digital Systems/Oc7inassign.v} {1 {vlog -work work -stats=none {D:/UT/Digital Systems/Oc7inassign.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module oc7inassign
+
+Top level modules:
+	oc7inassign
+
+} {} {}}
