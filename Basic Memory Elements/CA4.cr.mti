@@ -1,0 +1,17 @@
+{D:/UT/Digital Systems/Semester 4/CA4/CA4.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA4/CA4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_4
+-- Compiling module register_4_TB
+-- Compiling module ShiftRegister
+-- Compiling module ShiftRegisterTB
+-- Compiling module ShiftRegNonBlock
+-- Compiling module ShiftRegBlock
+-- Compiling module ShiftRegisterBehavTB
+
+Top level modules:
+	register_4_TB
+	ShiftRegisterTB
+	ShiftRegNonBlock
+	ShiftRegisterBehavTB
+
+} {} {}}

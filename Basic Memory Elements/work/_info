@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UT/Digital Systems/Semester 4/CA3
+vregister_4
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1716582219
+!i10b 1
+!s100 ?GbK634A9T6HNPC:W?cAi0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgWR0jieekKkXzLzSH:IC=1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/UT/Digital Systems/Semester 4/CA4
+Z5 w1716582213
+Z6 8D:/UT/Digital Systems/Semester 4/CA4/CA4.sv
+Z7 FD:/UT/Digital Systems/Semester 4/CA4/CA4.sv
+!i122 62
+L0 2 7
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1716582219.000000
+Z10 !s107 D:/UT/Digital Systems/Semester 4/CA4/CA4.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA4/CA4.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vregister_4_TB
+R0
+R1
+!i10b 1
+!s100 [MefQ2f4CFKEHMD0ej34C0
+R2
+ISmY`MZR[^X5gfcRV18EE60
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+L0 11 16
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nregister_4_@t@b
+vShiftRegBehav
+R0
+!s110 1716577294
+!i10b 1
+!s100 W<9NeLacg]>c6PYlRkKKa2
+R2
+IaVgC`aeBT`_Uz1I1iW8zF1
+R3
+S1
+R4
+w1716577275
+R6
+R7
+!i122 61
+Z14 L0 65 18
+R8
+r1
+!s85 0
+31
+!s108 1716577294.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@reg@behav
+vShiftRegBlock
+R0
+R1
+!i10b 1
+!s100 4G@8QJZ[V^agEA4gndXVO0
+R2
+Ih:[nW2TO`gFL=l@TnH<dh3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+L0 84 28
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@reg@block
+vShiftRegister
+R0
+R1
+!i10b 1
+!s100 z6R2gHzYNRDg7FoT7e9d90
+R2
+ITDNFC?FRA4[nB_6S5jZ[h0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+L0 28 14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@register
+vShiftRegisterBehavTB
+R0
+R1
+!i10b 1
+!s100 <Y<?=d6gUZ8N^Lk_jA`eS2
+R2
+IUF`L_UH2;Jka6<YW66TgP1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+L0 113 34
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@register@behav@t@b
+vShiftRegisterTB
+R0
+R1
+!i10b 1
+!s100 Q:fZjSBeb:jHK_]N;a^=Z1
+R2
+I_?RULEFh3]09[@fLj7jeg1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+L0 43 21
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@register@t@b
+vShiftRegNonBlock
+R0
+R1
+!i10b 1
+!s100 MR]7DFKW<I><ZU]bPo11o0
+R2
+I:N;YU;LZVlk4oCHYe7SUa3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 62
+R14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@shift@reg@non@block
