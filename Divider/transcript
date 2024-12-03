@@ -1,0 +1,25 @@
+vsim -gui work.DividerTB
+# vsim -gui work.DividerTB 
+# Start time: 10:27:50 on Jun 12,2024
+# Loading sv_std.std
+# Loading work.DividerTB
+# Loading work.DividerMine
+# Loading work.DataPath
+# Loading work.Q_reg
+# Loading work.M_reg
+# Loading work.A_reg
+# Loading work.Subtractor
+# Loading work.Mux
+# Loading work.counter
+# Loading work.Shifter
+# Loading work.Controler
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (8) for port 'po'. The port definition is at: D:/UT/Digital Systems/Semester 4/CA5/CA5.sv(32).
+#    Time: 0 ns  Iteration: 0  Instance: /DividerTB/UUT1/D1/Subt File: D:/UT/Digital Systems/Semester 4/CA5/CA5.sv Line: 77
+add wave -position insertpoint sim:/DividerTB/*
+run -all
+# ** Note: $stop    : D:/UT/Digital Systems/Semester 4/CA5/CA5.sv(177)
+#    Time: 20530 ns  Iteration: 0  Instance: /DividerTB
+# Break in Module DividerTB at D:/UT/Digital Systems/Semester 4/CA5/CA5.sv line 177
+quit -sim
+# End time: 10:30:12 on Jun 12,2024, Elapsed time: 0:02:22
+# Errors: 0, Warnings: 2
