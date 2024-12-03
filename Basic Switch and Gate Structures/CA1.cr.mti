@@ -1,0 +1,78 @@
+{D:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fourMuxTB
+
+Top level modules:
+	fourMuxTB
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/Tina.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/Tina.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tina
+
+Top level modules:
+	tina
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/Nor2in.v} {1 {vlog -work work -sv -stats=none {D:\UT\Digital Systems\Semester 4\CA1\Nor2in.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mynor
+
+Top level modules:
+	mynor
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module twoMuxTB
+
+Top level modules:
+	twoMuxTB
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/Q5.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/Q5.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module QFiveTB
+
+Top level modules:
+	QFiveTB
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/2-1MUX.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/2-1MUX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module twoOneMUX
+
+Top level modules:
+	twoOneMUX
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/fourMux.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/fourMux.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fourOneMUX
+
+Top level modules:
+	fourOneMUX
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tinaTB
+
+Top level modules:
+	tinaTB
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/Nor2inTB.v} {1 {vlog -work work -sv -stats=none {D:\UT\Digital Systems\Semester 4\CA1\Nor2inTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TBNor
+
+Top level modules:
+	TBNor
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module QfourTB
+
+Top level modules:
+	QfourTB
+
+} {} {}} {D:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module QuesFourMUX
+
+Top level modules:
+	QuesFourMUX
+
+} {} {}}

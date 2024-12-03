@@ -1,0 +1,319 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UT/Digital Systems/Semester 4/HW2
+vfourMuxTB
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1709715776
+!i10b 1
+!s100 LVER5Y`XEE>J9K1h:abbP3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIm`6ido@]TR16i?BJc]N@3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/UT/Digital Systems/Semester 4/CA1
+w1709715769
+8D:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv
+FD:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv
+!i122 64
+Z4 L0 2 17
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1709715776.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/fourMuxTB.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+nfour@mux@t@b
+vfourOneMUX
+R0
+Z8 !s110 1709656482
+!i10b 1
+!s100 0VBGL4[@==KHa]i3AcH@A0
+R1
+Id0`hN<=mjGLSF9Q2ShY1P2
+R2
+S1
+R3
+w1709654903
+8D:/UT/Digital Systems/Semester 4/CA1/fourMux.sv
+FD:/UT/Digital Systems/Semester 4/CA1/fourMux.sv
+!i122 59
+Z9 L0 2 9
+R5
+r1
+!s85 0
+31
+Z10 !s108 1709656482.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA1/fourMux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/fourMux.sv|
+!i113 1
+R6
+R7
+nfour@one@m@u@x
+vmynor
+R0
+R8
+!i10b 1
+!s100 e8:WWiT80<RU6hLA;Y37Q3
+R1
+I28b4]zoYEBoUg:^`cjB`Q2
+R2
+S1
+R3
+w1709656479
+8D:\UT\Digital Systems\Semester 4\CA1\Nor2in.v
+FD:\UT\Digital Systems\Semester 4\CA1\Nor2in.v
+!i122 55
+R9
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:\UT\Digital Systems\Semester 4\CA1\Nor2in.v|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\UT\Digital Systems\Semester 4\CA1\Nor2in.v|
+!i113 1
+R6
+R7
+vQFiveTB
+R0
+Z11 !s110 1709656483
+!i10b 1
+!s100 BLPOP_MV;M0l=]]NBE8@@1
+R1
+I:XWYY4Wk9G7eWnF1c:4^i0
+R2
+S1
+R3
+w1709640595
+8D:/UT/Digital Systems/Semester 4/CA1/Q5.sv
+FD:/UT/Digital Systems/Semester 4/CA1/Q5.sv
+!i122 63
+L0 2 18
+R5
+r1
+!s85 0
+31
+Z12 !s108 1709656483.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA1/Q5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/Q5.sv|
+!i113 1
+R6
+R7
+n@q@five@t@b
+vQfourTB
+R0
+R11
+!i10b 1
+!s100 a<J41S=DYNVbie91[FW3d2
+R1
+Ii^BTCiiLl`Cz_>Ah3z;I32
+R2
+S1
+R3
+w1709639504
+8D:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv
+FD:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv
+!i122 62
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/Q4TB.sv|
+!i113 1
+R6
+R7
+n@qfour@t@b
+vQuesFourMUX
+R0
+R11
+!i10b 1
+!s100 k6nl7g@YzFZihW8c_Bj7H2
+R1
+IYl>hPKla8?W49QFJA1E:23
+R2
+S1
+R3
+w1709639835
+8D:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv
+FD:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv
+!i122 61
+L0 2 21
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/FourMuxQ4.sv|
+!i113 1
+R6
+R7
+n@ques@four@m@u@x
+vTB
+!s110 1709531345
+!i10b 1
+!s100 _2nSNjA:WA[c]U[g3I=ZB2
+R1
+IWD2@oG1N5bRzBQE>@7ll>2
+R2
+R3
+w1709531341
+8D:\UT\Digital Systems\Semester 4\CA1\Nor2inTB.v
+FD:\UT\Digital Systems\Semester 4\CA1\Nor2inTB.v
+!i122 3
+Z13 L0 2 13
+R5
+r1
+!s85 0
+31
+!s108 1709531345.000000
+!s107 D:\UT\Digital Systems\Semester 4\CA1\Nor2inTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\UT\Digital Systems\Semester 4\CA1\Nor2inTB.v|
+!i113 1
+o-work work
+R7
+n@t@b
+vTBNor
+R0
+!s110 1712313316
+!i10b 1
+!s100 F>I^;7C2k7W1TiVzGJCJW1
+R1
+IGPHPm:AU<oATZ4P;0ab9S0
+R2
+S1
+R3
+w1712313312
+Z14 8D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv
+Z15 FD:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv
+!i122 67
+R13
+R5
+r1
+!s85 0
+31
+!s108 1712313316.000000
+!s107 D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv|
+!i113 1
+R6
+R7
+n@t@b@nor
+vtina
+R0
+!s110 1712313252
+!i10b 1
+!s100 e5dXf7PDa;5;4LdRn1Ycc3
+R1
+IPUWggJ5UHY?3Tk;Of]`Z[3
+R2
+S1
+R3
+w1712313248
+Z17 8D:/UT/Digital Systems/Semester 4/CA1/Tina.sv
+Z18 FD:/UT/Digital Systems/Semester 4/CA1/Tina.sv
+!i122 66
+R9
+R5
+r1
+!s85 0
+31
+!s108 1712313252.000000
+Z19 !s107 D:/UT/Digital Systems/Semester 4/CA1/Tina.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/Tina.sv|
+!i113 1
+R6
+R7
+vtinaTB
+R0
+!s110 1712314014
+!i10b 1
+!s100 g@Ol=`aTZWE=6DE=8Pl1N0
+R1
+IlU^6`F:eJI0RA8;8SMoJ;1
+R2
+S1
+R3
+w1712314009
+R14
+R15
+!i122 69
+L0 2 16
+R5
+r1
+!s85 0
+31
+!s108 1712314014.000000
+Z21 !s107 D:/UT/Digital Systems/Semester 4/CA1/tinaTB.sv|
+R16
+!i113 1
+R6
+R7
+ntina@t@b
+vtwoMuxTB
+R0
+R8
+!i10b 1
+!s100 b`zFAL5FAEAEKmMC83IXa2
+R1
+IJGFG;]oF7bEFCa[Ll4UB?3
+R2
+S1
+R3
+w1709533934
+8D:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv
+FD:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv
+!i122 58
+L0 2 15
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UT/Digital Systems/Semester 4/CA1/twoMuxTB.sv|
+!i113 1
+R6
+R7
+ntwo@mux@t@b
+vtwoOneMUX
+R0
+!s110 1712313241
+!i10b 1
+!s100 g7cef[O5JHQ<Tg9X:Ajh@0
+R1
+IJ8@SH^]?9IROgj3W_`on20
+R2
+S1
+R3
+w1712313229
+R17
+R18
+!i122 65
+R9
+R5
+r1
+!s85 0
+31
+!s108 1712313241.000000
+R19
+R20
+!i113 1
+R6
+R7
+ntwo@one@m@u@x
