@@ -1,0 +1,59 @@
+C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/AlUq2-synth.v {1 {vlog -work work -stats=none C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/AlUq2-synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUq2s
+
+Top level modules:
+	ALUq2s
+
+} {} {}} C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/ALU16-synth.v {1 {vlog -work work -stats=none C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/ALU16-synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU16b
+
+Top level modules:
+	ALU16b
+
+} {} {}} {D:/UT/Digital Systems/16bitALU.sv} {0 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/16bitALU.sv}
+** Warning: (vlog-14) Failed to open "D:/UT/Digital Systems/CA3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+
+} {5.0 6.0} {}} {D:/UT/Digital Systems/adder.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/adder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {D:/UT/Digital Systems/2sComp.sv} {0 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/2sComp.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comp
+** Error: (vlog-13069) D:/UT/Digital Systems/2sComp.sv(3): near "==": syntax error, unexpected ==, expecting ';' or ','.
+** Error: (vlog-13069) D:/UT/Digital Systems/2sComp.sv(4): near "<": syntax error, unexpected '<', expecting '='.
+** Error: D:/UT/Digital Systems/2sComp.sv(6): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+
+} {4.0 7.0} {}} {D:/UT/Digital Systems/ALU16.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Digital Systems/ALU16.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/mycells.v {1 {vlog -work work -stats=none C:/Users/Amir/OneDrive/Desktop/Yosys/Yosys/mycells.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module NOR
+-- Compiling module DFF
+-- Compiling module DFF_PP0
+-- Compiling module DFF_PP1
+
+Top level modules:
+	NOT
+	NAND
+	NOR
+	DFF
+	DFF_PP0
+	DFF_PP1
+
+} {} {}}

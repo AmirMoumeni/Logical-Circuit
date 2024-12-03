@@ -1,0 +1,30 @@
+vsim -gui work.ALUTB
+# vsim -gui work.ALUTB 
+# Start time: 10:02:12 on Nov 29,2023
+# Loading sv_std.std
+# Loading work.ALUTB
+# Loading work.ALU16b
+# Loading work.NOR
+# Loading work.NOT
+# Loading work.NAND
+# Loading work.ALU
+add wave -position insertpoint  \
+sim:/ALUTB/A \
+sim:/ALUTB/B \
+sim:/ALUTB/C \
+sim:/ALUTB/opc \
+sim:/ALUTB/w \
+sim:/ALUTB/wp \
+sim:/ALUTB/w2 \
+sim:/ALUTB/zer \
+sim:/ALUTB/neg \
+sim:/ALUTB/zerp \
+sim:/ALUTB/negp \
+sim:/ALUTB/zer2 \
+sim:/ALUTB/neg2
+run -all
+# ** Note: $stop    : D:/UT/Digital Systems/ALUTB.sv(23)
+#    Time: 5 us  Iteration: 0  Instance: /ALUTB
+# Break in Module ALUTB at D:/UT/Digital Systems/ALUTB.sv line 23
+# End time: 12:10:07 on Nov 29,2023, Elapsed time: 2:07:55
+# Errors: 0, Warnings: 1
